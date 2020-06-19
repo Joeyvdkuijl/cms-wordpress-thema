@@ -1,1 +1,2 @@
-# cms-wordpress-thema
+
+http://localhost/fro/kennismakenWordpress/kennismakenpress/
